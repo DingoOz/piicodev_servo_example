@@ -9,4 +9,6 @@ The build environment is Arduino IDE 2.2.1 and this has been tested on a Pico W.
 
 Uses the following Arduino framework for the RP2040: https://github.com/earlephilhower/arduino-pico
 
+To use this code, make sure you have installed the above framework, then install the Adafruit PCA9685 library. Then open the "servo.ino" file in the Arduino IDE and run.
+
 "PiicoDev" and the PiicoDev Logo are trademarks of Core Electronics Pty Ltd.
