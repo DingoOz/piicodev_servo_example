@@ -1,7 +1,7 @@
 # piicodev_servo_example
 An example of using the piicodev PCA9685 servo driver with the Raspberry Pi Pico using Arduino.
 
-This example sweeps two servos attached to pin headers 1 and 2 on the board. 
+This example sweeps two servos attached to pin headers 1 and 2 on the board. [In the code pins 1 are servonum == 3, and the pins for servo 2 silkscreened on the board are servonum == 2] 
 
 The piicodev servo control board is made by Core Electronics. The sample code provided is for Python only. This repo includes C based Arduino.
 
